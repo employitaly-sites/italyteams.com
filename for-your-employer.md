@@ -1,0 +1,10 @@
+# Hire Me in Italy Without an Entity
+
+> For a Nordic company that wants to hire a professional living in Italy: how ItalyTeams employs them for you, what it costs, how to start.
+
+
+<section> <span class="eyebrow">For the company that wants to hire me</span> <h1 id="you-want-me-on-the-team-i-live-in-italy">You want me on the team. I live in Italy.</h1> <p class="lede">You do not need to open an Italian company or register anything here. ItalyTeams becomes my legal employer in Italy. I work for you full time, and you receive one monthly invoice in SEK, NOK, DKK or EUR.</p> </section> <section> <ol class="steps"> <li><strong>Send the offer details</strong>Role, salary and start date. ItalyTeams returns a cost estimate within one business day.</li> <li><strong>One agreement</strong>A service agreement between your company and ItalyTeams.</li> <li><strong>My contract</strong>An Italian employment contract with ItalyTeams under the right CCNL.</li> <li><strong>I start</strong>You manage my work. ItalyTeams runs payroll, tax and contributions every month.</li> </ol> </section> <section> <div class="fact"><b>€250</b><span>per employee per month, in your currency at the EUR reference rate</span></div> <div class="fact"><b>Actuals</b><span>my employment cost (salary, contributions, 13th month, TFR) invoiced monthly as it really is</span></div> <div class="fact"><b>€2,500</b><span>per case, only if I need a work permit</span></div> </section> <section class="prose"> <h2 id="why-not-invoice-you-as-a-freelancer">Why not invoice you as a freelancer?</h2> <p>If I work only for you, on your schedule and with your tools, Italian authorities can treat it as employment, with back taxes and penalties for your company. Employing me through ItalyTeams avoids the risk and gives me a normal Italian contract.</p> </section> <section> <div class="cta"><a class="btn" href="calculator.html">See what I would cost</a><a class="btn ghost" href="contact.html">Contact ItalyTeams</a></div> </section>
+
+
+---
+Source: https://italyteams.com/for-your-employer.html
